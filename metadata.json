@@ -1,0 +1,5 @@
+{
+  "name": "HR Employee Performance Analysis",
+  "description": "An application for HR professionals to analyze employee performance reviews using AI. Input performance text to receive a structured analysis including a summary, strengths, and areas for improvement.",
+  "requestFramePermissions": []
+}
